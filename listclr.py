@@ -1,0 +1,5 @@
+colour=input("Enter the colour & separated by, : ")
+clr_list=colour.split(",")
+print(clr_list)
+print("The First Colour is:",clr_list[0])
+print("The First Colour is:",clr_list[-1])
